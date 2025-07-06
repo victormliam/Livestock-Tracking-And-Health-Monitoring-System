@@ -14,4 +14,7 @@ This project focused on designing and developing a Livestock and Health Monitori
 - microcontroller esp32
 - GPS module
 - Temperature sensor
-  
+- Gyroscope
+- GSM module
+- DHT 11 sensor
+- Pulse Sensor
